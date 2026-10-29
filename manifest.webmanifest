@@ -1,0 +1,1 @@
+{"name":"Mind Vault","short_name":"Mind Vault","description":"Brain puzzle vault missions","start_url":"./","scope":"./","display":"standalone","background_color":"#080e20","theme_color":"#080e20","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
